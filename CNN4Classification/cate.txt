@@ -1,0 +1,10 @@
+beizhu	9	备注
+bushoulituikuan	8	不受理退款
+fapiao	7	开发票	
+shaosongsongcuo	6	少送送错
+shentibushi	5	身体不适
+songcan	4	送餐
+tousu	3	投诉
+youyiwu	2	有异物
+zaicishenqing	1	再次申请退款
+zhifubao	0	使用支付宝
